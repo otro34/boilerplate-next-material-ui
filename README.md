@@ -1,5 +1,6 @@
 # Next JS - Material UI Boilerplate 
 
+Based on Material UI [Example](https://github.com/mui/material-ui/tree/master/examples/material-next).
 ## Componentes Básicos
 
 * NextJS 
